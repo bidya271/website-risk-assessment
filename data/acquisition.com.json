@@ -1,0 +1,193 @@
+{
+    "domain": "acquisition.com",
+    "cloudflare_scan": {
+        "uuid": "ea88e990-66d6-4f76-9571-607063ca2bce",
+        "api": "https://api.cloudflare.com/client/v4/accounts/3a6f7172913f7e6ff73f0dc33b840682/urlscanner/v2/result/ea88e990-66d6-4f76-9571-607063ca2bce",
+        "visibility": "public",
+        "url": "https://acquisition.com",
+        "message": "Submission successful"
+    },
+    "whois": {
+        "domain_name": "ACQUISITION.COM",
+        "registrar": "GoDaddy.com, LLC",
+        "creation_date": "[datetime.datetime(1998, 7, 22, 4, 0), datetime.datetime(1998, 7, 21, 23, 0)]",
+        "expiration_date": "[datetime.datetime(2025, 7, 21, 4, 0), datetime.datetime(2025, 7, 20, 23, 0)]",
+        "updated_date": "[datetime.datetime(2024, 7, 21, 10, 51, 27), datetime.datetime(2024, 7, 21, 5, 51, 25)]",
+        "name_servers": [
+            "ALEX.NS.CLOUDFLARE.COM",
+            "DONNA.NS.CLOUDFLARE.COM"
+        ]
+    },
+    "ssl_sha_256_fingerprint": {
+        "domain": "acquisition.com",
+        "sha256_fingerprint": "163e2b14163033081f3486e9f15a783534be071db9027f85da08e175773170c3",
+        "has_sha256": true
+    },
+    "social_presence": "{\n    \"domain_name\": \"acquisition.com\",\n    \"social_presence\": {\n        \"linkedin\": {\n            \"presence\": null,\n            \"link\": null\n        },\n        \"facebook\": {\n            \"presence\": false,\n            \"link\": null\n        },\n        \"instagram\": {\n            \"presence\": false,\n            \"link\": null,\n            \"link1\": null\n        },\n        \"twitter\": {\n            \"presence\": false,\n            \"link\": null\n        },\n        \"youtube\": {\n            \"presence\": false,\n            \"link\": null\n        }\n    }\n}",
+    "privacy_and_terms": {
+        "is_accessible": true,
+        "ssl_valid": true,
+        "terms_of_service_present": true,
+        "privacy_policy_present": true,
+        "legal_name": "these requirements include but are not limited"
+    },
+    "https_check": {
+        "has_https": true,
+        "protocol": "HTTPS",
+        "status": "Accessible",
+        "page_title": "Acquisition.com Home"
+    },
+    "ssl_org_report": {
+        "domain": "acquisition.com",
+        "report_summary": {
+            "status": "Certificate is valid and trusted.",
+            "critical_errors": "No errors found.",
+            "warnings": "No warnings."
+        },
+        "ssl_certificate_details": {
+            "subject": "acquisition.com",
+            "altnames": "acquisition.com",
+            "issuer": "WE1",
+            "not_valid_before": "Jan 15 04:13:57 2025 GMT",
+            "not_valid_after": "Apr 15 05:13:51 2025 GMT",
+            "certificate_expiration": "Expires in 63 days",
+            "signature_algorithm": "ecdsa-with-SHA256",
+            "ecc_curve_name": "prime256v1",
+            "ecc_key_strength": "128 bits"
+        }
+    },
+    "godaddy_whois": {
+        "name": "ACQUISITION.COM",
+        "registry_domain_id": "1631018_DOMAIN_COM-VRSN",
+        "registered_on": "1998-07-22T04:00:00Z",
+        "expires_on": "2025-07-21T04:00:00Z",
+        "updated_on": "2024-07-21T10:51:27Z",
+        "domain_status": "client delete prohibited",
+        "name_servers": []
+    },
+    "tranco_list": {
+        "domain": "acquisition.com",
+        "Tranco Rank": "218736"
+    },
+    "ssltrust_blacklist": {
+        "Status": "Finished View",
+        "results": "Unknown",
+        "Results": "96 Tests Complete, 0 Positives"
+    },
+    "urlvoid": {
+        "last_analysis": "10 days ago",
+        "detections_counts": {
+            "detected": 0,
+            "checks": 39
+        },
+        "registered_on": "1998-07-22",
+        "registered_since": "27 years ago",
+        "ip_address": "199.60.103.24",
+        "website_address": "Acquisition.com",
+        "reverse_dns": "Unknown",
+        "asn": "AS209242 Cloudflare London, LLC",
+        "server_location": "(US) United States",
+        "latitude_longitude": "unknown",
+        "city": "Unknown",
+        "region": "Unknown"
+    },
+    "google_safe_browsing": {
+        "error": "Failed to extract data: Message: \nStacktrace:\n0   chromedriver                        0x00000001054070d4 cxxbridge1$str$ptr + 2600792\n1   chromedriver                        0x00000001053ff9f0 cxxbridge1$str$ptr + 2570356\n2   chromedriver                        0x0000000104fa03d8 cxxbridge1$string$len + 89376\n3   chromedriver                        0x0000000104fe5414 cxxbridge1$string$len + 372060\n4   chromedriver                        0x000000010501f638 cxxbridge1$string$len + 610176\n5   chromedriver                        0x0000000104fd934c cxxbridge1$string$len + 322708\n6   chromedriver                        0x0000000104fd9f94 cxxbridge1$string$len + 325852\n7   chromedriver                        0x00000001053d2238 cxxbridge1$str$ptr + 2384060\n8   chromedriver                        0x00000001053d5550 cxxbridge1$str$ptr + 2397140\n9   chromedriver                        0x00000001053b8b9c cxxbridge1$str$ptr + 2279968\n10  chromedriver                        0x00000001053d5e10 cxxbridge1$str$ptr + 2399380\n11  chromedriver                        0x00000001053aa6a4 cxxbridge1$str$ptr + 2221352\n12  chromedriver                        0x00000001053f07d8 cxxbridge1$str$ptr + 2508380\n13  chromedriver                        0x00000001053f0954 cxxbridge1$str$ptr + 2508760\n14  chromedriver                        0x00000001053ff664 cxxbridge1$str$ptr + 2569448\n15  libsystem_pthread.dylib             0x00000001869e9f94 _pthread_start + 136\n16  libsystem_pthread.dylib             0x00000001869e4d34 thread_start + 8\n"
+    },
+    "page_size": {
+        "Page URL": "Http://acquisition.com",
+        "Page Size (Bytes)": "70090",
+        "Page Size (KB)": "~68 KB"
+    },
+    "mxtoolbox": {
+        "Blacklist": {
+            "Errors": "0",
+            "Warnings": "0",
+            "Passed": "362"
+        },
+        "Problems": {
+            "Errors": "0",
+            "Warnings": "7",
+            "Passed": "434"
+        },
+        "Problem Table": [
+            {
+                "Status": "Status Warning",
+                "Category": "dns",
+                "Host": "acquisition.com",
+                "Result": "SOA Serial Number Format is Invalid"
+            },
+            {
+                "Status": "Status Warning",
+                "Category": "dns",
+                "Host": "acquisition.com",
+                "Result": "SOA Expire Value out of recommended range"
+            },
+            {
+                "Status": "Status Warning",
+                "Category": "smtp",
+                "Host": "aspmx.l.google.com",
+                "Result": "Reverse DNS does not match SMTP Banner"
+            },
+            {
+                "Status": "Status Warning",
+                "Category": "smtp",
+                "Host": "alt4.aspmx.l.google.com",
+                "Result": "Reverse DNS does not match SMTP Banner"
+            },
+            {
+                "Status": "Status Warning",
+                "Category": "smtp",
+                "Host": "alt3.aspmx.l.google.com",
+                "Result": "Reverse DNS does not match SMTP Banner"
+            },
+            {
+                "Status": "Status Warning",
+                "Category": "smtp",
+                "Host": "alt2.aspmx.l.google.com",
+                "Result": "Reverse DNS does not match SMTP Banner"
+            },
+            {
+                "Status": "Status Warning",
+                "Category": "smtp",
+                "Host": "alt1.aspmx.l.google.com",
+                "Result": "Reverse DNS does not match SMTP Banner"
+            }
+        ]
+    },
+    "popup_and_ads": {
+        "has_popups": false,
+        "has_ads": true
+    },
+    "similarweb_data": {
+        "domain_name": "acquisition.com",
+        "Firmographics": "NA",
+        "Rankings": "NA",
+        "Top Countries traffic percentage": "NA"
+    },
+    "ipvoid": {
+        "checked_on": "unknown",
+        "elapsed_time": "0 seconds",
+        "detections_count": {
+            "detected": 0,
+            "checks": 93
+        },
+        "ip_address": "199.60.103.24",
+        "location": "unknown",
+        "reverse_dns": "Unknown",
+        "asn": "AS209242",
+        "isp": "HubSpot Inc.",
+        "continent": "North America",
+        "country_code": "(US) United States of America",
+        "city": "Cambridge",
+        "region": "Massachusetts"
+    },
+    "is_risky_geopolitical": {
+        "domain": "acquisition.com",
+        "is_risky": false,
+        "check_datetime": "2025-02-10 17:49:38"
+    },
+    "risk_score": 30,
+    "risk_category": "low_risk",
+    "datetime_assessment": "2025-02-10 17:49:38"
+}
