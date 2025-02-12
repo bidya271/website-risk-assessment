@@ -61,7 +61,7 @@ The **AI-Based Risk Assessment Tool** automates the process of evaluating websit
    ```
 
 ## Configuration
-- Modify risk scoring parameters in `config.py`.
+- Modify risk scoring parameters in `risk_scoring.py`.
 - Enable or disable specific scrapers by editing `main.py`.
 
 ## Contributing
