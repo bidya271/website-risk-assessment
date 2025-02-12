@@ -53,7 +53,7 @@ website_risk_assessment/
 ### Setup
 1. Clone the repository:
    ```sh
-  [ git clone [https://github.com/your-repo/ai-risk-assessment.git](https://github.com/bidya271/website-risk-assessment.git)]
+   git clone https://github.com/bidya271/website-risk-assessment.git
    cd website-risk-assessment
    ```
 2. Install dependencies:
