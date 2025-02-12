@@ -53,8 +53,8 @@ website_risk_assessment/
 ### Setup
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-repo/ai-risk-assessment.git
-   cd ai-risk-assessment
+  [ git clone [https://github.com/your-repo/ai-risk-assessment.git](https://github.com/bidya271/website-risk-assessment.git)]
+   cd website-risk-assessment
    ```
 2. Install dependencies:
    ```sh
@@ -66,7 +66,7 @@ website_risk_assessment/
 ## Usage
 1. Run the main script to analyze a domain:
    ```sh
-   python main.py --domain example.com
+   python main1.py --domain example.com
    ```
 2. The results will be saved in the `data/` folder as a JSON file.
 3. You can also run individual scrapers separately for testing:
